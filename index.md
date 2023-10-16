@@ -8,4 +8,13 @@ This is some content.
 
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
+```c
+#include <stdio.h>
+
+int main() {
+printf("Hello, world!\n");
+return 0;
+}
+```
+
 
