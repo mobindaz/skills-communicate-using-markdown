@@ -17,4 +17,11 @@ return 0;
 }
 ```
 
+- [ ] Write the introduction
+- [ ] Create a table of contents
+- [ ] Add code examples
+- [ ] Proofread and edit
+- [ ] Format for publication
+
+
 
